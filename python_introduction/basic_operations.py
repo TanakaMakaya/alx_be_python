@@ -1,7 +1,7 @@
-number1 = int(10)
-number2 = int(5)
+number1 = 10
+number2 = 5
 
-result1 = number1 - number2
+result1 = number1 + number2
 result2 = number1 - number2
 result3 = number1 * number2
 
