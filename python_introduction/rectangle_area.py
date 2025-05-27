@@ -1,3 +1,6 @@
-length = int(10) * int(5)
+length = 10
+width = 5
 
-print("The area of the rectangle is:", length)
+area = length * width
+
+print("The area of the rectangle is:", area)
