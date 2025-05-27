@@ -1,7 +1,7 @@
-rate = float(0.05)
-time = int(3)  # Interest rate in percentage
-principle = int(1000)
+rate = 0.05
+time = 3
+principal = 1000
 
-interest = (principle * rate * time)
+interest = principal * rate * time
 
 print ("The simple Interest is:", interest)
