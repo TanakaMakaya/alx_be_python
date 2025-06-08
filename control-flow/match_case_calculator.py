@@ -17,4 +17,3 @@ match operation:
     case _:
         result = "Error: Invalid operation."
 
-print(f"The result is {result}.")
